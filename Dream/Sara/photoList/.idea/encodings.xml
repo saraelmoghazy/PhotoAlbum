@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/challenge/app/com/photoalbum/service/RetrofitErrorHandler.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/challenge/app/com/photoalbum/ui/adapter/PhotoAdapter.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/challenge/app/com/photoalbum/ui/listener/RecyclerItemClickListener.java" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/custom_cursor.xml" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_img_holder.png" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v21" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/color.xml" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml" charset="windows-1256" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
