@@ -1,4 +1,4 @@
-string: "Grav"
-integer: 10
-float: 10.5
-boolean: true
+- Apple
+- Orange
+- Grapes
+[I'm an inline-style link](https://www.google.com)
